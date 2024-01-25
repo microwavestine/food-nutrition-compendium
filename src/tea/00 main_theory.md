@@ -1,10 +1,10 @@
-The main theory of tea is that there are only 6 types of tea.
+The main theory of tea is that there are only 6 types of tea, and are sorted based on level of fermentation.
 
-백차 - white tea. 백호은침 takes 1 minute 40 seconds for brewing.
 녹차 - green tea. Mainly produced in Korea, Japan and Vietnam
-청차 - blue tea. Produced in Fujian, which is why Taiwan mainly produces blue tea (historical, cultural influence)
+백차 - white tea. 백호은침 takes 1 minute 40 seconds for brewing.
 황차 - yellow tea (does not exist anymore)
-홍차 - black tea
+청차 - blue tea. Produced in Fujian, which is why Taiwan mainly produces blue tea (historical, cultural influence). Also known as oolong tea. Low fermentation = fragnant, high fermentation = taste.
+홍차 - black tea. 
 흑차 - dark tea. Contains microorganisms, can be brewed and drink for 24 hours. Famously known for Puer tea. Discovered by French, this is the tea French people recognize in contrast with British for black tea.
 
 There is a difference between how they are called in Chinese/Korean and English because of the way Eastern and Western culture viewed and classified tea differed. Asian culture identified tea by the color of water the tea leaves produced while the West identified tea by their tea leaves.
